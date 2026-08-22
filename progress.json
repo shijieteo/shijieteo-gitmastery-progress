@@ -276,5 +276,14 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787388506.13853,
+    "completed_at": 1787388511.758039,
+    "comments": [
+      "You should not be in a detached HEAD state! Use git checkout main to get back to main"
+    ],
+    "status": "Incomplete"
   }
 ]
